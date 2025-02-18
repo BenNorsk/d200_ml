@@ -1,0 +1,5 @@
+# Ignore the entire choice-learn folder
+choice-learn/
+
+# Ignore all CSV files
+*.csv
